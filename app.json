@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "name": "SCIENCE-KINGDOM",
+  "description": "Javascript WhatsApp bot made by Samitha Dissanayake",
+  "logo": "https://github.com/nimsarabot1/sciencekingdom/blob/main/images/Brown%20Mascot%20Lion%20Free%20Logo.png?raw=true",
+  "keywords": ["SCIENCE-KINGDOM"],
   "success_url": "/",
 
   "env": {
